@@ -1,4 +1,4 @@
-# Ama's Data Analytics Assessment
+# Data Analytics Assessment
 
 **NAME:** Amarachi Anthony  
 **BUFF ID:** 1130441  
