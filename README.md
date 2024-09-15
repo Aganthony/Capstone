@@ -1,12 +1,4 @@
 # Data Analytics Assessment
-
-**NAME:** Amarachi Anthony  
-**BUFF ID:** 1130441  
-**COURSE:** MS-CISBA Capstone  
-**Assignment 1:** Assessing Data Analytics  
-
----
-
 ## What Do I Know?
 
 I have extensive expertise in **data engineering**, including developing and managing data pipelines, ETL processes, and large-scale data storage. My capabilities include integrating diverse data sources to ensure seamless and accurate data transmission.
